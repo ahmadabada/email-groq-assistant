@@ -1,3 +1,4 @@
-node_modules
+/node_modules
 .env
-emails/emailspointer.json
+/emails
+emailspointer.json
