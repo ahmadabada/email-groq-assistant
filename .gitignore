@@ -1,1 +1,3 @@
-node_modules\n.env\nemails/\nemailspointer.json
+node_modules
+.env
+emails/emailspointer.json
